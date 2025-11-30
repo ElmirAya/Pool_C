@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<string.h>
+// more variables is not allowed.
 int is_pal_tail(char *s, int left, int right)
 {
     if (left >= right)
